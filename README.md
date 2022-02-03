@@ -1,5 +1,11 @@
 # test-setting-file
 ```
+stain apply test1/sample.yaml
+stain apply test2/sample.yaml
+```
+
+
+```
 ├── .policy
 │   └── rule.hcl
 ├── README.md
